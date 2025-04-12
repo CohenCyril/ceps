@@ -39,7 +39,7 @@ documentation generation, and build database for Coq libraries.
   Lemma mulrC : commutative mul. ...
   ```
   and we could have several aliases (`#[alias=..., alias=..., ...]`).
-- Give a name from the litterature (searchable again)
+- Give a name from the literature (searchable again)
   ```coq
   #[name="Abel-Ruffini Theorem", name="Abel's Theorem"]
   Lemma unsolvable_quintic : ...
